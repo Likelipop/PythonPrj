@@ -1,2 +1,3 @@
 # PythoPrj
- Python for Data Science
+TÀI CHÍNH
+Dựa vào Tiêu đề bài báo, đoán giá cổ phiếu tăng / giảm sắp tới
